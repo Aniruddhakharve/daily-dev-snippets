@@ -9,3 +9,8 @@ Building this daily with 5 merged PRs to grind Pull Shark silver!
 
 License: MIT  
 Topics: snippets, git, python, bash, dev-tools
+- [Markdown Tips](snippets/markdown-tips.md)
+- [VS Code Shortcuts](snippets/vs-code-shortcuts.md)
+
+**Day 1 extra: +4 PRs (total 9 today)!** Progress: Merged PRs grinding strong. 🦈
+Next: Python error handling + more git.
