@@ -1,1 +1,11 @@
 
+# Daily Dev Snippets 🚀🦈
+
+A growing collection of quick, useful code snippets, git tricks, bash one-liners, Python helpers, and dev tips.  
+Building this daily with 5 merged PRs to grind Pull Shark silver!
+
+## Daily Progress Tracker
+- **Day 1 (March 10, 2026)**: Started routine — added README intro, git alias, Python utils, bash commands.
+
+License: MIT  
+Topics: snippets, git, python, bash, dev-tools
