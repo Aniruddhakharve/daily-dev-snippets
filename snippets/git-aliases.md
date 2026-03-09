@@ -40,3 +40,9 @@ def is_palindrome(s: str) -> bool:
 # Example
 print(reverse_string("shark"))  # krahs
 print(is_palindrome("A man a plan a canal Panama"))  # True
+```
+
+4. Quick log pretty:
+   ```bash
+   git config --global alias.lg "log --oneline --decorate --graph --all"
+   ```
