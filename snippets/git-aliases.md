@@ -46,3 +46,16 @@ print(is_palindrome("A man a plan a canal Panama"))  # True
    ```bash
    git config --global alias.lg "log --oneline --decorate --graph --all"
    ```
+5. ```markdown
+
+5. Pretty colorful log:
+   ```bash
+   git config --global alias.lol "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+   ```
+   Usage: git lol — beautiful history!
+   
+6. Amend last commit quickly:
+   ```
+   git config --global alias.amend 'commit --amend --no-edit'
+   ```
+   
