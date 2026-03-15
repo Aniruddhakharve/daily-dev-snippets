@@ -23,3 +23,8 @@ Next: Python error handling + more git.
 Next day: Bash scripting basics + Python list comprehensions.
 
 - **Day 3 (March 16, 2026)**: Added Python list comprehensions examples, bash script basics, productivity tip. +5 PRs today — grind on! 🚀
+  ```markdown
+- [Python List Comprehensions](snippets/python-list-comprehensions.md)
+- [Bash Scripting Basics](snippets/bash-scripting-basics.md)
+- [Productivity: Gitignore Tips](snippets/productivity-tip-gitignore.md)
+  ```
