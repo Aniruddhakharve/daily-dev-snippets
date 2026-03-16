@@ -28,5 +28,6 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Productivity: Gitignore Tips](snippets/productivity-tip-gitignore.md)
 
 **Day 4 (March 17, 2026)**: Added Python dict comprehensions, bash loops/functions examples, quick config tip. +5 PRs — silver loading strong! 💥
-
-
+- [Python Dict Comprehensions](snippets/python-dict-comprehensions.md)
+- [Bash Loops & Functions](snippets/bash-loops-functions.md)
+- [Quick Git Config Tips](snippets/quick-config-git.md)
