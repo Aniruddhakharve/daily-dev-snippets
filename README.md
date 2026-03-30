@@ -41,3 +41,18 @@ Next day: Bash scripting basics + Python list comprehensions.
 
 **Day 5 complete: 5 PRs merged!** Progress accelerating — Pull Shark Silver getting closer 🦈⚡  
 Next day: File automation + logging + git stash tricks.
+
+**Day 6 (March 30, 2026)**: Added Git stash guide, password generator, backup script, gitignore tips, file size checker, process checker, git graph, batch rename, VS Code extensions. +10 PRs — massive progress! 🚀🔥
+
+- [Git Stash Guide](snippets/git-stash-guide.md)
+- [Python Password Generator](snippets/python-random-password.py)
+- [Bash Backup Script](snippets/bash-backup-script.sh)
+- [Gitignore Best Practices](snippets/gitignore-best-practices.md)
+- [Python File Size Checker](snippets/python-file-size.py)
+- [Bash Process Checker](snippets/bash-check-process.sh)
+- [Git Commit Graph](snippets/git-log-graph.md)
+- [Python Batch Rename](snippets/python-batch-rename.py)
+- [VS Code Extensions](snippets/vscode-extensions.md)
+
+**Day 6 complete: 10 PRs merged!** Momentum high — closing in on 50 PRs 🦈⚡  
+Next: Automation scripts + logging + networking tools.
