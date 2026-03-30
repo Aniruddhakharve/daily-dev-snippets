@@ -31,3 +31,12 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Python Dict Comprehensions](snippets/python-dict-comprehensions.md)
 - [Bash Loops & Functions](snippets/bash-loops-functions.md)
 - [Quick Git Config Tips](snippets/quick-config-git.md)
+## 📅 Day 5 Progress
+
+✅ Added 5 new snippets:
+
+1. Git Undo Last Commit  
+2. Python Internet Checker  
+3. Bash Disk Usage Monitor  
+4. VS Code Shortcuts  
+5. README Update  
