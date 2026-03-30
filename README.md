@@ -31,12 +31,13 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Python Dict Comprehensions](snippets/python-dict-comprehensions.md)
 - [Bash Loops & Functions](snippets/bash-loops-functions.md)
 - [Quick Git Config Tips](snippets/quick-config-git.md)
-## 📅 Day 5 Progress
+  
+**Day 5 (March 30, 2026)**: Added Git undo commit guide, Python internet checker, Bash disk monitor, VS Code shortcuts. +5 PRs — grind continues strong! 
 
-✅ Added 5 new snippets:
+- [Git Undo Last Commit](snippets/git-undo-last-commit.md)
+- [Python Internet Checker](snippets/python-check-internet.py)
+- [Bash Disk Usage Monitor](snippets/bash-disk-usage-monitor.sh)
+- [VS Code Shortcuts](snippets/vscode-shortcuts.md)
 
-1. Git Undo Last Commit  
-2. Python Internet Checker  
-3. Bash Disk Usage Monitor  
-4. VS Code Shortcuts  
-5. README Update  
+**Day 5 complete: 5 PRs merged!** Progress accelerating — Pull Shark Silver getting closer 🦈⚡  
+Next day: File automation + logging + git stash tricks.
