@@ -72,3 +72,17 @@ Next: Automation scripts + logging + networking tools.
 **Day 7 complete: 10 PRs merged!** Huge milestone unlocked — 50+ PRs 🦈⚡  
 Next: Networking tools + automation scripts + advanced bash.
 
+**Day 8 (April 1, 2026)**: Added Git restore, disk usage script, open ports check, branch rename, env variables, auto update script, HTTP server, VS Code formatting, git unstage. +10 PRs — consistency strong! 🚀🔥
+
+- [Git Restore File](snippets/git-restore-file.md)
+- [Python Disk Usage](snippets/python-disk-usage.py)
+- [Bash Open Ports](snippets/bash-open-ports.sh)
+- [Git Rename Branch](snippets/git-rename-branch.md)
+- [Python Env Variables](snippets/python-env-vars.py)
+- [Bash Auto Update](snippets/bash-auto-update.sh)
+- [Python HTTP Server](snippets/python-http-server.py)
+- [VS Code Format](snippets/vscode-format.md)
+- [Git Unstage](snippets/git-unstage.md)
+
+**Day 8 complete: 10 PRs merged!** Marching towards 70 PRs 🦈⚡  
+Next: Networking tools + log monitoring + automation.
