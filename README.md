@@ -100,3 +100,18 @@ Next: Networking tools + log monitoring + automation.
 
 **Day 9 complete: 10 PRs merged!** Approaching 70+ PRs 🦈⚡  
 Next: Advanced automation + system tools + networking scripts.
+
+**Day 10 (April 3, 2026)**: Added Git branch listing, memory usage script, file watcher, remote URL check, uptime script, process killer, port scanner, VS Code palette, commit viewer. +10 PRs — advanced toolkit growing! 🚀🔥
+
+- [Git Branch List](snippets/git-list-branches.md)
+- [Python Memory Usage](snippets/python-memory-usage.py)
+- [Bash File Watcher](snippets/bash-file-watcher.sh)
+- [Git Remote URL](snippets/git-remote-url.md)
+- [Python Uptime](snippets/python-uptime.py)
+- [Bash Kill Process](snippets/bash-kill-process.sh)
+- [Python Port Scanner](snippets/python-port-scanner.py)
+- [VS Code Command Palette](snippets/vscode-command-palette.md)
+- [Git Show Commit](snippets/git-show-commit.md)
+
+**Day 10 complete: 10 PRs merged!** Crossing 80 PRs soon 🦈⚡  
+Next: Advanced monitoring + automation + networking tools.
