@@ -86,3 +86,17 @@ Next: Networking tools + automation scripts + advanced bash.
 
 **Day 8 complete: 10 PRs merged!** Marching towards 70 PRs 🦈⚡  
 Next: Networking tools + log monitoring + automation.
+**Day 9 (April 2, 2026)**: Added Git cherry-pick, port checker, DNS lookup, revert commit, CPU monitor, curl status check, log watcher, VS Code terminal toggle, fetch vs pull. +10 PRs — strong DevOps focus! 🚀🔥
+
+- [Git Cherry Pick](snippets/git-cherry-pick.md)
+- [Python Port Check](snippets/python-check-port.py)
+- [Bash DNS Lookup](snippets/bash-dns-lookup.sh)
+- [Git Revert](snippets/git-revert.md)
+- [Python CPU Usage](snippets/python-cpu-usage.py)
+- [Bash Curl Status](snippets/bash-curl-status.sh)
+- [Bash Log Watcher](snippets/bash-log-watcher.sh)
+- [VS Code Terminal](snippets/vscode-terminal.md)
+- [Git Fetch vs Pull](snippets/git-fetch-vs-pull.md)
+
+**Day 9 complete: 10 PRs merged!** Approaching 70+ PRs 🦈⚡  
+Next: Advanced automation + system tools + networking scripts.
