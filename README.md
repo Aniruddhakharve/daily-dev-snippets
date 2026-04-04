@@ -39,9 +39,6 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Bash Disk Usage Monitor](snippets/bash-disk-usage-monitor.sh)
 - [VS Code Shortcuts](snippets/vscode-shortcuts.md)
 
-**Day 5 complete: 5 PRs merged!** Progress accelerating — Pull Shark Silver getting closer 🦈⚡  
-Next day: File automation + logging + git stash tricks.
-
 **Day 6 (March 30, 2026)**: Added Git stash guide, password generator, backup script, gitignore tips, file size checker, process checker, git graph, batch rename, VS Code extensions. +10 PRs — massive progress! 🚀🔥
 
 - [Git Stash Guide](snippets/git-stash-guide.md)
@@ -53,9 +50,6 @@ Next day: File automation + logging + git stash tricks.
 - [Git Commit Graph](snippets/git-log-graph.md)
 - [Python Batch Rename](snippets/python-batch-rename.py)
 - [VS Code Extensions](snippets/vscode-extensions.md)
-
-**Day 6 complete: 10 PRs merged!** Momentum high — closing in on 50 PRs 🦈⚡  
-Next: Automation scripts + logging + networking tools.
 
 **Day 7 (March 31, 2026)**: Added Git amend guide, system info script, ping check, git diff helper, JSON pretty print, file counter, log analyzer, VS Code split trick, git clean. +10 PRs — crossed 50 milestone! 🚀🔥
 
@@ -69,9 +63,6 @@ Next: Automation scripts + logging + networking tools.
 - [VS Code Split Screen](snippets/vscode-split-screen.md)
 - [Git Clean](snippets/git-clean.md)
 
-**Day 7 complete: 10 PRs merged!** Huge milestone unlocked — 50+ PRs 🦈⚡  
-Next: Networking tools + automation scripts + advanced bash.
-
 **Day 8 (April 1, 2026)**: Added Git restore, disk usage script, open ports check, branch rename, env variables, auto update script, HTTP server, VS Code formatting, git unstage. +10 PRs — consistency strong! 🚀🔥
 
 - [Git Restore File](snippets/git-restore-file.md)
@@ -84,8 +75,6 @@ Next: Networking tools + automation scripts + advanced bash.
 - [VS Code Format](snippets/vscode-format.md)
 - [Git Unstage](snippets/git-unstage.md)
 
-**Day 8 complete: 10 PRs merged!** Marching towards 70 PRs 🦈⚡  
-Next: Networking tools + log monitoring + automation.
 **Day 9 (April 2, 2026)**: Added Git cherry-pick, port checker, DNS lookup, revert commit, CPU monitor, curl status check, log watcher, VS Code terminal toggle, fetch vs pull. +10 PRs — strong DevOps focus! 🚀🔥
 
 - [Git Cherry Pick](snippets/git-cherry-pick.md)
@@ -97,9 +86,6 @@ Next: Networking tools + log monitoring + automation.
 - [Bash Log Watcher](snippets/bash-log-watcher.sh)
 - [VS Code Terminal](snippets/vscode-terminal.md)
 - [Git Fetch vs Pull](snippets/git-fetch-vs-pull.md)
-
-**Day 9 complete: 10 PRs merged!** Approaching 70+ PRs 🦈⚡  
-Next: Advanced automation + system tools + networking scripts.
 
 **Day 10 (April 3, 2026)**: Added Git branch listing, memory usage script, file watcher, remote URL check, uptime script, process killer, port scanner, VS Code palette, commit viewer. +10 PRs — advanced toolkit growing! 🚀🔥
 
@@ -113,9 +99,6 @@ Next: Advanced automation + system tools + networking scripts.
 - [VS Code Command Palette](snippets/vscode-command-palette.md)
 - [Git Show Commit](snippets/git-show-commit.md)
 
-**Day 10 complete: 10 PRs merged!** Crossing 80 PRs soon 🦈⚡  
-Next: Advanced monitoring + automation + networking tools.
-
 **Day 11 (April 4, 2026)**: Added Git delete branch, disk alert, CPU usage script, current branch check, process list, directory size, health check script, VS Code zen mode, undo merge. +10 PRs — automation and monitoring focus! 🚀🔥
 
 - [Git Delete Branch](snippets/git-delete-branch.md)
@@ -128,5 +111,14 @@ Next: Advanced monitoring + automation + networking tools.
 - [VS Code Zen Mode](snippets/vscode-zen-mode.md)
 - [Git Undo Merge](snippets/git-undo-merge.md)
 
-**Day 11 complete: 10 PRs merged!** Nearing 100 PRs milestone 🦈⚡  
-Next: Advanced automation + network monitoring + scripting tools.
+**Day 12 (April 4, 2026)**: Added Git squash, network info tool, cron example, reset to commit, log filter, inode check, service monitor, VS Code multicursor, last commit view. +10 PRs — crossed 100 milestone! 🚀🔥
+
+- [Git Squash](snippets/git-squash.md)
+- [Python Network Info](snippets/python-network-info.py)
+- [Cron Job Example](snippets/bash-cron-example.md)
+- [Git Reset Specific](snippets/git-reset-specific.md)
+- [Python Log Filter](snippets/python-log-filter.py)
+- [Bash Inode Check](snippets/bash-inode-check.sh)
+- [Service Monitor](snippets/bash-service-monitor.sh)
+- [VS Code Multi Cursor](snippets/vscode-multicursor.md)
+- [Git Last Commit](snippets/git-last-commit.md)
