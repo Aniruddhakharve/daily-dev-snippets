@@ -159,5 +159,5 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [VS Code Recent](snippets/vscode-recent.md)
 - [Git Untracked](snippets/git-untracked.md)
 
-**Pair Badge Progress (April 2026)**: Added collaborative PRs with co-authored commits to unlock Pair Extraordinaire 🤝
+**Pair Badge Progress (April 2026)**: Added collaborative PRs with co-authored commits to unlock Pair Extraordinaire 
 
