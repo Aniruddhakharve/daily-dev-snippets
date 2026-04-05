@@ -134,3 +134,16 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Disk CLI Tool](snippets/python-disk-cli.py)
 - [VS Code Sidebar](snippets/vscode-toggle-sidebar.md)
 - [Git Commit Count](snippets/git-count-commits.md)
+
+**Day 14 (April 6, 2026)**: Added Git tags, latency check, disk alert cron script, file history, URL status CLI, memory alert, process monitor, VS Code word wrap, staged diff. +10 PRs — final stretch! 🚀🔥
+
+- [Git Tags](snippets/git-list-tags.md)
+- [Python Latency Check](snippets/python-latency-check.py)
+- [Bash Disk Alert](snippets/bash-disk-alert.sh)
+- [Git File History](snippets/git-file-history.md)
+- [Python URL Status](snippets/python-url-status.py)
+- [Bash Memory Alert](snippets/bash-memory-alert.sh)
+- [Python Process Monitor](snippets/python-process-monitor.py)
+- [VS Code Word Wrap](snippets/vscode-wordwrap.md)
+- [Git Staged Diff](snippets/git-staged-diff.md)
+
