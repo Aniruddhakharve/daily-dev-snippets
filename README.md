@@ -122,3 +122,15 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [Service Monitor](snippets/bash-service-monitor.sh)
 - [VS Code Multi Cursor](snippets/vscode-multicursor.md)
 - [Git Last Commit](snippets/git-last-commit.md)
+
+**Day 13 (April 5, 2026)**: Added Git rename remote, CLI args tool, bash calculator, contributors list, file checker CLI, ping monitor, disk CLI tool, VS Code sidebar toggle, commit count. +10 PRs — CLI tools added! 🚀🔥
+
+- [Git Rename Remote](snippets/git-rename-remote.md)
+- [Python CLI Args](snippets/python-cli-args.py)
+- [Bash Calculator](snippets/bash-calculator.sh)
+- [Git Contributors](snippets/git-contributors.md)
+- [Python File Check](snippets/python-file-check.py)
+- [Bash Ping Monitor](snippets/bash-ping-monitor.sh)
+- [Disk CLI Tool](snippets/python-disk-cli.py)
+- [VS Code Sidebar](snippets/vscode-toggle-sidebar.md)
+- [Git Commit Count](snippets/git-count-commits.md)
