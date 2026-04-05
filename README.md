@@ -147,3 +147,15 @@ Next day: Bash scripting basics + Python list comprehensions.
 - [VS Code Word Wrap](snippets/vscode-wordwrap.md)
 - [Git Staged Diff](snippets/git-staged-diff.md)
 
+**Day 15 (April 7, 2026)**: Added remote branch delete, ping script, auto backup, modified files, file downloader, user check, service restart tool, VS Code recent, untracked files. +10 PRs — FINAL PUSH! 🚀🔥
+
+- [Git Remote Delete](snippets/git-delete-remote-branch.md)
+- [Python Ping](snippets/python-ping.py)
+- [Bash Auto Backup](snippets/bash-auto-backup.sh)
+- [Git Modified Files](snippets/git-modified-files.md)
+- [Python Downloader](snippets/python-file-downloader.py)
+- [Bash Users](snippets/bash-users.sh)
+- [Service Restart](snippets/bash-service-restart.sh)
+- [VS Code Recent](snippets/vscode-recent.md)
+- [Git Untracked](snippets/git-untracked.md)
+
